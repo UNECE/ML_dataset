@@ -27,5 +27,5 @@ Open datasets from Machine Learning Project
 * Example of reading the dataset in python
 
 ```
-df = pd.read_excel('https://raw.githubusercontent.com/UNECE/ML_dataset/master/Stats%20Poland%20ECOICOP%20data%20translated%20to%20English%20and%20French.xlsx', sheet_name = 'Data')
+df = pd.read_excel('https://raw.githubusercontent.com/UNECE/ML_dataset/master/Stats%20Poland%20ECOICOP%20data.xlsx', sheet_name = 'Data')
 ```
